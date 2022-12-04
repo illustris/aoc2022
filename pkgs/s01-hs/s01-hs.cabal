@@ -1,0 +1,7 @@
+name: s01-hs
+version: 1.0
+executable s01-hs
+	main-is: Main.hs
+	build-depends:
+		base,
+		split
